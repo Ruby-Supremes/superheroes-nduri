@@ -4,4 +4,14 @@ class Power < ApplicationRecord
 
     validates :description, presence: true
     validates :description, length: { minimum: 20 }
+
+    # validate :is_valid
+  
+  #Custom validation
+#   def is_valid
+#     unless description.valid? 
+#         render json: { errors: invalid.power.errors.full_messages }, status: :unprocessable_entity
+#     end
+
+#   end
 end
