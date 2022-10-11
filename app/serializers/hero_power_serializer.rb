@@ -1,5 +1,5 @@
 class HeroPowerSerializer < ActiveModel::Serializer
-  attributes :id, :strength
+  attributes 
   
   has_one :hero
 end
