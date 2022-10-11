@@ -28,7 +28,7 @@
  ****
 * Clone the repo : git clone: https://github.com/Ruby-Supremes/superheroes-nduri
 * Unzip the downloaded files in a folder of choice.
-* Open the files in a code editor of choice and in the terminal run 'rails s' to have the application run after which you can open the url "http://127.0.0.1:3000" in postman to interact with the application. Possible routes are " http://127.0.0.1:3000/heros, http://127.0.0.1:3000/powers, http://127.0.0.1:3000/heros/:id, http://127.0.0.1:3000/powers/:id" to apply the different CRUD functionalities
+* Open the files in a code editor of choice and in the terminal run 'bundle install' followed by 'rails s' to have the application run after which you can open the url "http://127.0.0.1:3000" in postman to interact with the application. Possible routes are " http://127.0.0.1:3000/heros, http://127.0.0.1:3000/powers, http://127.0.0.1:3000/heros/:id, http://127.0.0.1:3000/powers/:id" to apply the different CRUD functionalities
  ****
 ### Technology  Used
 
@@ -59,5 +59,5 @@ SOFTWARE.
 ## Author Info
 Contributor -
 [Vincent Nduri](https://github.com/ndurivin)
-## Twitter: https://twitter.com/vinnduri
-## LinkedIn: https://www.linkedin.com/in/vincent-nduri-8b2228b5/
+[Twitter]: [https://twitter.com/vinnduri]
+[LinkedIn]: [https://www.linkedin.com/in/vincent-nduri-8b2228b5/]
