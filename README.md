@@ -59,5 +59,5 @@ SOFTWARE.
 ## Author Info
 Contributor -
 [Vincent Nduri](https://github.com/ndurivin)
-[Twitter]: [https://twitter.com/vinnduri]
-[LinkedIn]: [https://www.linkedin.com/in/vincent-nduri-8b2228b5/]
+# [Twitter]: [https://twitter.com/vinnduri]
+# [LinkedIn]: [https://www.linkedin.com/in/vincent-nduri-8b2228b5/]
